@@ -5,7 +5,7 @@ from st_aggrid import AgGrid, GridOptionsBuilder, JsCode
 
 st.set_page_config(page_title="Tyler's Fantasy Football App", 
                    initial_sidebar_state="expanded",
-                   layout="wide", 
+                   layout="centered", 
                    page_icon=":football:")
 
 st.sidebar.title("Pages")
