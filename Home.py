@@ -17,7 +17,8 @@ st.subheader("Welcome to my Fantasy Football App")
 #st.image(os.path.join(os.getcwd(), "static", "logo.png"), width=200)
 
 st.markdown("Here you can find my latest player rankings and ADP. " \
-            "You can also create your own rankings by dragging and dropping players ")
+            "You can also create your own rankings by dragging and dropping players. " \
+            "Choose from the rankings options in the side.")
 
 st.divider()
 
