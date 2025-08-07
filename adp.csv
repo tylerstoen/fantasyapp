@@ -1,0 +1,334 @@
+Player,Team,Bye,AVG
+Ja'Marr Chase,CIN,10,1.0
+Saquon Barkley,PHI,9,2.7
+Bijan Robinson,ATL,5,2.7
+Jahmyr Gibbs,DET,8,4.0
+Justin Jefferson,MIN,6,5.0
+CeeDee Lamb,DAL,10,6.0
+Puka Nacua,LAR,8,9.0
+Christian McCaffrey,SF,14,9.3
+Amon-Ra St. Brown,DET,8,9.3
+Derrick Henry,BAL,7,9.7
+Ashton Jeanty,LV,8,10.3
+Malik Nabers,NYG,14,10.7
+Nico Collins,HOU,6,12.3
+De'Von Achane,MIA,12,14.3
+Brian Thomas Jr.,JAC,8,15.0
+Josh Jacobs,GB,5,17.0
+Brock Bowers,LV,8,17.7
+Jonathan Taylor,IND,11,19.0
+Bucky Irving,TB,9,19.3
+Drake London,ATL,5,19.7
+A.J. Brown,PHI,9,20.3
+Josh Allen,BUF,7,21.3
+Lamar Jackson,BAL,7,23.0
+Chase Brown,CIN,10,23.7
+Ladd McConkey,LAC,12,25.0
+Kyren Williams,LAR,8,25.3
+Trey McBride,ARI,8,27.3
+Jayden Daniels,WAS,12,29.0
+Tyreek Hill,MIA,12,29.7
+Jaxon Smith-Njigba,SEA,8,31.3
+Breece Hall,NYJ,9,31.7
+James Cook,BUF,7,31.7
+Tee Higgins,CIN,10,32.3
+Garrett Wilson,NYJ,9,35.3
+George Kittle,SF,14,37.3
+Jalen Hurts,PHI,9,37.7
+Joe Burrow,CIN,10,38.3
+Alvin Kamara,NO,11,39.3
+Omarion Hampton,LAC,12,39.3
+Terry McLaurin,WAS,12,39.3
+Mike Evans,TB,9,39.7
+Davante Adams,LAR,8,39.7
+Marvin Harrison Jr.,ARI,8,40.0
+Kenneth Walker III,SEA,8,42.0
+Chuba Hubbard,CAR,14,42.7
+James Conner,ARI,8,48.0
+DJ Moore,CHI,5,48.3
+DK Metcalf,PIT,5,49.3
+Rashee Rice,KC,10,50.3
+Courtland Sutton,DEN,12,52.3
+Sam LaPorta,DET,8,53.0
+David Montgomery,DET,8,54.3
+Joe Mixon,HOU,6,55.7
+DeVonta Smith,PHI,9,55.7
+Patrick Mahomes II,KC,10,56.3
+RJ Harvey,DEN,12,56.3
+Zay Flowers,BAL,7,59.7
+Xavier Worthy,KC,10,59.7
+TreVeyon Henderson,NE,14,62.0
+D'Andre Swift,CHI,5,62.3
+T.J. Hockenson,MIN,6,62.3
+Jameson Williams,DET,8,62.3
+Isiah Pacheco,KC,10,63.0
+Tetairoa McMillan,CAR,14,63.7
+Aaron Jones Sr.,MIN,6,65.0
+Travis Kelce,KC,10,65.3
+Baker Mayfield,TB,9,66.0
+Tony Pollard,TEN,10,66.7
+George Pickens,DAL,10,67.0
+Kaleb Johnson,PIT,5,67.3
+Travis Hunter,JAC,8,68.3
+Calvin Ridley,TEN,10,73.7
+Jaylen Waddle,MIA,12,73.7
+Bo Nix,DEN,12,75.0
+Chris Olave,NO,11,76.0
+Jerry Jeudy,CLE,9,78.0
+Mark Andrews,BAL,7,79.0
+Chris Godwin,TB,9,79.3
+Jordan Addison,MIN,6,80.0
+Brian Robinson Jr.,WAS,12,81.3
+Tyrone Tracy Jr.,NYG,14,83.0
+Rome Odunze,CHI,5,84.3
+Quinshon Judkins,CLE,9,85.3
+Jaylen Warren,PIT,5,87.3
+Evan Engram,DEN,12,87.3
+Deebo Samuel Sr.,WAS,12,89.0
+Kyler Murray,ARI,8,92.0
+David Njoku,CLE,9,92.3
+Travis Etienne Jr.,JAC,8,94.7
+Cooper Kupp,SEA,8,95.0
+Stefon Diggs,NE,14,96.0
+Jared Goff,DET,8,97.7
+Jauan Jennings,SF,14,99.0
+Jakobi Meyers,LV,8,99.3
+Jayden Reed,GB,5,101.0
+Khalil Shakir,BUF,7,102.0
+Cam Skattebo,NYG,14,102.3
+Brock Purdy,SF,14,103.3
+Jordan Mason,MIN,6,103.3
+Justin Fields,NYJ,9,104.7
+Ricky Pearsall,SF,14,104.7
+Najee Harris,LAC,12,106.7
+Justin Herbert,LAC,12,107.7
+Tucker Kraft,GB,5,108.0
+Zach Charbonnet,SEA,8,108.0
+Dak Prescott,DAL,10,108.3
+Matthew Golden,GB,5,109.7
+Javonte Williams,DAL,10,111.0
+Caleb Williams,CHI,5,111.0
+Jonnu Smith,PIT,5,113.0
+Rhamondre Stevenson,NE,14,113.7
+Tyler Warren,IND,11,115.7
+J.K. Dobbins,DEN,12,116.0
+Josh Downs,IND,11,120.0
+Emeka Egbuka,TB,9,122.7
+Brandon Aiyuk,SF,14,124.0
+Jake Ferguson,DAL,10,125.7
+Colston Loveland,CHI,5,126.3
+Dalton Kincaid,BUF,7,127.7
+Tank Bigsby,JAC,8,128.3
+Drake Maye,NE,14,128.3
+Jordan Love,GB,5,129.0
+Denver Broncos,DST,12,129.3
+Tyjae Spears,TEN,10,129.7
+C.J. Stroud,HOU,6,130.3
+Philadelphia Eagles,DST,9,132.7
+Dallas Goedert,PHI,9,133.0
+Michael Pittman Jr.,IND,11,134.7
+Rachaad White,TB,9,136.3
+J.J. McCarthy,MIN,6,136.7
+Jaydon Blue,DAL,10,137.3
+Nick Chubb,HOU,6,140.0
+Isaac Guerendo,SF,14,140.7
+Keon Coleman,BUF,7,141.0
+Pittsburgh Steelers,DST,5,142.0
+Austin Ekeler,WAS,12,143.3
+Darnell Mooney,ATL,5,144.0
+Kyle Pitts Sr.,ATL,5,144.7
+Brandon Aubrey,DAL,10,146.0
+Jayden Higgins,HOU,6,146.7
+Jerome Ford,CLE,9,148.3
+Bhayshul Tuten,JAC,8,150.0
+Tre' Harris,LAC,12,150.3
+Luther Burden III,CHI,5,150.3
+Ray Davis,BUF,7,150.7
+Rico Dowdle,CAR,14,151.3
+Tua Tagovailoa,MIA,12,152.3
+Cameron Ward,TEN,10,153.7
+Trey Benson,ARI,8,154.3
+Baltimore Ravens,DST,7,155.3
+Minnesota Vikings,DST,6,156.3
+Marvin Mims Jr.,DEN,12,156.7
+Cameron Dicker,LAC,12,159.0
+Michael Penix Jr.,ATL,5,159.3
+Marquise Brown,KC,10,159.3
+Braelon Allen,NYJ,9,160.0
+DeAndre Hopkins,BAL,7,160.7
+Jack Bech,LV,8,160.7
+Rashid Shaheed,NO,11,161.3
+Geno Smith,LV,8,162.0
+Bryce Young,CAR,14,162.0
+Trevor Lawrence,JAC,8,163.0
+Hunter Henry,NE,14,163.0
+Tyler Allgeier,ATL,5,164.3
+Sam Darnold,SEA,8,164.7
+Matthew Stafford,LAR,8,164.7
+Christian Kirk,HOU,6,165.3
+Jaylen Wright,MIA,12,165.3
+Jalen McMillan,TB,9,165.7
+Houston Texans,DST,6,166.0
+Kyle Williams,NE,14,166.3
+Jake Bates,DET,8,166.7
+Dylan Sampson,CLE,9,167.0
+Aaron Rodgers,PIT,5,167.7
+Isaiah Likely,BAL,7,171.0
+Zach Ertz,WAS,12,171.3
+Cade Otton,TB,9,171.3
+Rashod Bateman,BAL,7,172.0
+Anthony Richardson Sr.,IND,11,173.0
+Kansas City Chiefs,DST,10,173.7
+Kareem Hunt,KC,10,173.7
+Adam Thielen,CAR,14,173.7
+Ka'imi Fairbairn,HOU,6,176.3
+Quentin Johnston,LAC,12,176.7
+Chris Boswell,PIT,5,182.3
+Detroit Lions,DST,8,182.3
+Brenton Strange,JAC,8,183.3
+Blake Corum,LAR,8,184.0
+Buffalo Bills,DST,7,184.7
+Mike Gesicki,CIN,10,185.7
+Pat Freiermuth,PIT,5,195.3
+Harrison Butker,KC,10,196.7
+Chase McLaughlin,TB,9,198.3
+San Francisco 49ers,DST,14,199.3
+Chig Okonkwo,TEN,10,200.0
+Wil Lutz,DEN,12,204.3
+Shedeur Sanders,CLE,9,205.0
+Darren Waller,MIA,12,212.3
+Tampa Bay Buccaneers,DST,9,214.3
+Evan McPherson,CIN,10,216.3
+Xavier Legette,CAR,14,174.0
+Mason Taylor,NYJ,9,175.0
+Roschon Johnson,CHI,5,176.5
+Cedric Tillman,CLE,9,176.5
+Justice Hill,BAL,7,181.0
+Washington Commanders,DST,12,222.3
+Wan'Dale Robinson,NYG,14,183.0
+Kyle Monangai,CHI,5,189.0
+Tyler Bass,BUF,7,227.7
+Keenan Allen,LAC,12,191.0
+DeMario Douglas,NE,14,191.5
+Romeo Doubs,GB,5,192.5
+Joshua Palmer,BUF,7,194.0
+New York Giants,DST,14,232.3
+Los Angeles Rams,DST,8,235.3
+Tyler Loop,BAL,7,235.7
+DJ Giddens,IND,11,202.5
+MarShawn Lloyd,GB,5,203.0
+Jason Sanders,MIA,12,237.3
+Jake Elliott,PHI,9,237.7
+Brashard Smith,KC,10,204.5
+Miles Sanders,DAL,10,205.5
+Alec Pierce,IND,11,205.5
+Jarquez Hunter,LAR,8,207.0
+Seattle Seahawks,DST,8,242.3
+Dalton Schultz,HOU,6,208.0
+Green Bay Packers,DST,5,241.0
+Elijah Arroyo,SEA,8,210.5
+Dallas Cowboys,DST,10,242.3
+Brandon McManus,GB,5,212.0
+Devin Neal,NO,11,215.5
+New England Patriots,DST,14,245.3
+Woody Marks,HOU,6,216.0
+Russell Wilson,NYG,14,219.0
+Chicago Bears,DST,5,223.0
+Miami Dolphins,DST,12,224.0
+Tahj Brooks,CIN,10,224.5
+Jalen Royals,KC,10,225.0
+Will Shipley,PHI,9,225.0
+Pat Bryant,DEN,12,226.0
+Tyler Shough,NO,11,228.0
+New York Jets,DST,9,253.7
+Younghoe Koo,ATL,5,255.0
+Jaylin Noel,HOU,6,231.5
+Cincinnati Bengals,DST,10,234.0
+Daniel Carlson,LV,8,259.0
+Matt Gay,WAS,12,260.0
+Dont'e Thornton Jr.,LV,8,238.0
+Daniel Jones,IND,11,238.5
+Jaxson Dart,NYG,14,240.0
+Elijah Mitchell,KC,10,240.5
+Ja'Tavion Sanders,CAR,14,243.0
+Raheem Mostert,LV,8,243.0
+Jake Moody,SF,14,246.0
+Arizona Cardinals,DST,8,246.5
+Michael Wilson,ARI,8,247.0
+Jacory Croskey-Merritt,WAS,12,247.5
+Terrance Ferguson,LAR,8,248.0
+Will Reichard,MIN,6,267.0
+Dyami Brown,JAC,8,248.5
+Tyler Lockett,TEN,10,249.0
+Jaleel McLaughlin,DEN,12,249.0
+,,,249.5
+Darius Slayton,NYG,14,252.5
+Trevor Etienne,CAR,14,255.0
+Joe Flacco,CLE,9,207.0
+Calvin Austin III,PIT,5,256.0
+Joshua Karty,LAR,8,256.5
+Juwan Johnson,NO,11,258.5
+Los Angeles Chargers,DST,12,259.5
+Cole Kmet,CHI,5,260.0
+Tyler Conklin,LAC,12,261.0
+,,,262.0
+Kirk Cousins,ATL,5,222.0
+Cleveland Browns,DST,9,264.5
+Antonio Gibson,NE,14,264.5
+Spencer Rattler,NO,11,229.0
+Elic Ayomanor,TEN,10,267.5
+Andrei Iosivas,CIN,10,267.5
+Jalen Milroe,SEA,8,268.0
+Harold Fannin Jr.,CLE,9,268.0
+Ollie Gordon II,MIA,12,268.0
+Jordan James,SF,14,270.0
+Theo Johnson,NYG,14,268.5
+Tennessee Titans,DST,10,235.0
+Noah Gray,KC,10,270.5
+Alexander Mattison,MIA,12,237.0
+A.J. Dillon,PHI,9,238.0
+Kendre Miller,NO,11,272.5
+Ray-Ray McCloud III,ATL,5,243.0
+Tyler Higbee,LAR,8,275.0
+Devin Singletary,NYG,14,275.5
+Diontae Johnson,CLE,9,276.0
+Jalen Nailor,MIN,6,248.0
+Isaac TeSlaa,DET,8,276.5
+Adonai Mitchell,IND,11,282.5
+Jalen Coker,CAR,14,252.0
+Dontayvion Wicks,GB,5,280.5
+Audric Estime,DEN,12,283.0
+Roman Wilson,PIT,5,287.0
+Luke McCaffrey,WAS,12,264.0
+Tre Tucker,LV,8,265.0
+Oronde Gadsden II,LAC,12,286.0
+Tory Horton,SEA,8,268.0
+Keaton Mitchell,BAL,7,287.0
+Devaughn Vele,DEN,12,277.0
+Taysom Hill,NO,11,291.0
+Jermaine Burton,CIN,10,279.0
+Xavier Restrepo,TEN,10,280.0
+Jordan Whittington,LAR,8,281.0
+Tutu Atwell,LAR,8,284.0
+Ben Sinnott,WAS,12,285.0
+Kayshon Boutte,NE,14,295.0
+Christian Watson,GB,5,288.0
+Indianapolis Colts,DST,11,290.0
+Troy Franklin,DEN,12,291.0
+Sean Tucker,TB,9,291.0
+Las Vegas Raiders,DST,8,292.0
+KeAndre Lambert-Smith,LAC,12,292.0
+Jacksonville Jaguars,DST,8,294.0
+Samaje Perine,CIN,10,294.0
+New Orleans Saints,DST,11,296.0
+Brandin Cooks,NO,11,302.0
+Noah Fant,CIN,10,298.0
+Kenneth Gainwell,PIT,5,298.0
+Ty Johnson,BUF,7,299.0
+Jalen Tolbert,DAL,10,305.0
+Emanuel Wilson,GB,5,310.0
+Elijah Moore,BUF,7,312.0
+Isaiah Davis,NYJ,9,315.0
+Dameon Pierce,HOU,6,316.0
+Phil Mafah,DAL,10,317.0
+Khalil Herbert,IND,11,318.0
