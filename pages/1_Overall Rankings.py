@@ -11,7 +11,7 @@ st.markdown(
 )
 
 # Load original data from file
-original_data = pd.read_csv("updated_rankings.csv")
+original_data = pd.read_csv("updated_rankings8-8.csv")
 original_data["id"] = original_data.index  # unique row ID for AgGrid
 
 # Load from session state or fall back to original
@@ -26,7 +26,7 @@ working_data["id"] = working_data.index  # Ensure ID is always there
 gb = GridOptionsBuilder.from_dataframe(working_data)
 gb.configure_grid_options(domLayout='normal')
 gb.configure_selection("single", use_checkbox=False)
-gb.configure_column("Player", rowDrag=True, width=400)
+gb.configure_column("Player", rowDrag=True, width=600)
 gb.configure_column("id", hide=True)
 gb.configure_grid_options(rowDragManaged=True, animateRows=True)
 gb.configure_grid_options(getRowNodeId="data.id")
@@ -53,7 +53,7 @@ live_df["Pos Rank"] = live_df.groupby("Pos").cumcount() + 1
 
 # Display live rankings
 st.write("🟢 Your Updated Rankings (Live View):")
-st.dataframe(live_df[["Personal Rank", "Player", "Pos", "Team", "Pos Rank", "ADP", "Rank", "Bye", "Notes"]].reset_index(drop=True), hide_index=True)
+st.dataframe(live_df[["Personal Rank", "Player", "Pos", "Team", "ADP", "Pos Rank", "Rank", "Bye", "Notes"]].reset_index(drop=True), hide_index=True)
 
 # Save on button click
 # if st.button("Save Rankings"):

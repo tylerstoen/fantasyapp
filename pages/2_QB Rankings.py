@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
 
-st.title("Page 2 - QB Rankings")
+st.title("QB Rankings")
 st.markdown("Here you can view and reorder the QB rankings. Drag and drop players to adjust their rankings as needed. " \
             "The table below tracks your live updated rankings. Hover the **top right** corner of the table to download.")
 
