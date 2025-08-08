@@ -11,7 +11,7 @@ st.markdown(
 )
 
 # Load original data from file
-original_data = pd.read_csv("updated_rankings8-8.csv")
+original_data = pd.read_csv("updated_rankings_8-8.csv")
 original_data["id"] = original_data.index  # unique row ID for AgGrid
 
 # Load from session state or fall back to original
