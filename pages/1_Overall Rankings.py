@@ -7,7 +7,8 @@ st.title("Overall Player Rankings")
 st.markdown(
     "Here you can view and reorder the overall player rankings. "
     "Drag and drop players to adjust their rankings as needed. "
-    "Hover over the table generated below to download your custom ranking order."
+    "Hover over the table generated below to download your custom ranking order. " \
+    "**All rankings are based on half PPR scoring.**"
 )
 
 # Load original data from file
