@@ -12,4 +12,4 @@ new_rankings.drop(columns=["Rank"], inplace=True)  # Remove the old Rank column
 new_rankings.rename(columns={"Personal Rank": "Rank"}, inplace=True)  # Rename Personal Rank to Rank
 new_rankings = new_rankings[["Rank", "Player", "Pos", "Team", "ADP", "Pos Rank", "Bye", "Notes"]]  # Reorder columns
 
-new_rankings.to_csv(filename, index=False)  # Save the updated rankings
+new_rankings.to_csv("updated_rankings.csv", index=False)  # Save the updated rankings
