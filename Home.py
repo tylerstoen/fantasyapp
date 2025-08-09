@@ -18,7 +18,8 @@ st.subheader("Welcome to my Fantasy Football App")
 
 st.markdown("Here you can find my latest player rankings and ADP. " \
             "You can also create your own rankings by dragging and dropping players. " \
-            "Choose from the rankings options in the side.")
+            "Choose from the rankings options in the side." \
+            "**All rankings are based on half PPR scoring.**")
 
 st.divider()
 
